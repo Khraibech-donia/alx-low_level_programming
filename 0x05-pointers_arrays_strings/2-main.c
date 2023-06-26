@@ -9,7 +9,8 @@
 int main(void)
 {
 	char *str
-		int len
+
+	int len
 
 	str = "My first strlen!";
 	len = _strlen(str);
